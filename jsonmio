@@ -1,0 +1,14 @@
+{
+  "UserInfo":[
+	  {
+		  "Name": "1",
+		  "Pregunta": "Como se llama el hijo menor de Jaime Lamprea",
+		  "R1": "Carlos",
+		  "R2": "Santi",
+		  "R3": "José",
+		  "R4": "Raúl",
+		  "Respuesta Correcta": "R2",
+		  "Imagen del Patrocinio": "Texture2D'/Game/PuenteDelSaber/Patrocinadores/1.1'"
+	  }
+  ]
+} 
